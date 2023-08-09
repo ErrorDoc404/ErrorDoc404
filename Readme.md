@@ -20,3 +20,12 @@
 <a href="https://github.com/ErrorDoc404">
   <img style="margin-right:10px" align="left" alt="lintang github" width="23px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </a>
+</br>
+</br>
+
+
+| My Current Game |  My Current Music Bot|
+| --- | --- |
+|[![Sikrit](https://github-readme-stats.vercel.app/api/pin/?username=ErrorDoc404&repo=Sikrit)](https://github.com/ErrorDoc404/Sikrit)|[![LavaWebsite](https://github-readme-stats.vercel.app/api/pin/?username=ErrorDoc404&repo=LavaWebsite)](https://github.com/ErrorDoc404/LavaWebsite)|
+| <a href="https://github.com/ErrorDoc404/Sikrit/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=ErrorDoc404/Sikrit" /></a> | <a href="https://github.com/ErrorDoc404/LavaWebsite/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=ErrorDoc404/LavaWebsite" /></a>
+|
