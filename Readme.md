@@ -1,6 +1,6 @@
 |My Github Stats|My Preferd Language|
 |---|---|
-|![ErrorDoc404's Github Stat](https://github-readme-stats.vercel.app/api?username=ErrorDOc404&show_icons=true&hide_border=true&theme=vue&show=reviews,discussions_started,discussions_answered)|![My Preferd Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorDoc404&layout=compact&hide_border=true&theme=vue)| 
+|![ErrorDoc404's Github Stat](https://github-readme-stats.vercel.app/api?username=ErrorDOc404&show_icons=true&hide_border=true&theme=vue&show=reviews,discussions_started,discussions_answered)|![My Preferd Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ErrorDoc404&layout=donut&hide_border=true&theme=vue)| 
 
 - 👋 Hi, Its me Akash, Welcome to my github.
 - ‍💻 I'm a gamer who know some coding and want to expand my knowlage in code.
