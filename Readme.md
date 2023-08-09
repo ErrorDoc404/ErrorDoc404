@@ -27,5 +27,4 @@
 | My Current Game |  My Current Music Bot|
 | --- | --- |
 |[![Sikrit](https://github-readme-stats.vercel.app/api/pin/?username=ErrorDoc404&repo=Sikrit)](https://github.com/ErrorDoc404/Sikrit)|[![LavaWebsite](https://github-readme-stats.vercel.app/api/pin/?username=ErrorDoc404&repo=LavaWebsite)](https://github.com/ErrorDoc404/LavaWebsite)|
-| <a href="https://github.com/ErrorDoc404/Sikrit/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=ErrorDoc404/Sikrit" /></a> | <a href="https://github.com/ErrorDoc404/LavaWebsite/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=ErrorDoc404/LavaWebsite" /></a>
-|
+| <a href="https://github.com/ErrorDoc404/Sikrit/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=ErrorDoc404/Sikrit" /></a> | <a href="https://github.com/ErrorDoc404/LavaWebsite/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=ErrorDoc404/LavaWebsite" /></a>|
